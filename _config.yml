@@ -1,8 +1,5 @@
-layout_spectrum: 0.2080659
-typography_spectrum: 0.4443971
 color:
   saturation: 0.3872653
-  lightness: 0.7299779
   brandStrength: 0.0722405
   rhythmicContrast: 0.7006769
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  lightness: 0.7299779
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.2080659
+typography_spectrum: 0.4443971
 name: Drawings and Paintings by ErosArts
