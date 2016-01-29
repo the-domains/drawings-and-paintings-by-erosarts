@@ -1,14 +1,7 @@
-color:
-  saturation: 0.3872653
-  brandStrength: 0.0722405
-  rhythmicContrast: 0.7006769
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 0.7299779
+name: Drawings and Paintings by ErosArts
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4443971
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2080659
-typography_spectrum: 0.4443971
-name: Drawings and Paintings by ErosArts
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#27241f'
+    - '#7f615b'
+    - '#958d78'
+    - '#afa792'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
