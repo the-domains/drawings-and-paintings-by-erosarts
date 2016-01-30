@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Drawings and Paintings by ErosArts]]></title>
         <description><![CDATA[Drawings and Paintings by ErosArts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.hansenartstudio.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:57:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 23:00:48 GMT</lastBuildDate>
+        <atom:link href="http://www.hansenartstudio.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No Escort Needed]]></title>
-            <description><![CDATA[<article><h1>No Escort Needed</h1><p>Charcoal and Conte Pencils on Canson Paper</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fad4115c9b9ac69df7f83eeab099bbf2ac41e415.jpg"></article>]]></description>
-            <link>undefinedno-escort-needed/index.html</link>
+            <description><![CDATA[<article><h1>No Escort Needed</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/657c356b4c4347c76d0b4020bcc721aab04fcfa7.jpg"></article>]]></description>
+            <link>http://www.hansenartstudio.info/no-escort-needed/index.html</link>
             <guid isPermaLink="false">7bc6983b-b15f-44d5-be23-8fae3f6edabe</guid>
-            <pubDate>Fri, 29 Jan 2016 17:57:32 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 23:00:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
