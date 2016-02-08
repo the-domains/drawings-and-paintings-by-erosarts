@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Drawings and Paintings by ErosArts
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4443971
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 1
+title: Drawings and Paintings by ErosArts
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#27241f'
     - '#7f615b'
     - '#958d78'
     - '#afa792'
+  brandStrength: 0.5
   lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-name: Drawings and Paintings by ErosArts
-typography_spectrum: 0.4443971
