@@ -1,7 +1,7 @@
 name: Drawings and Paintings by ErosArts
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4443971
+typography_spectrum: 1
 collections:
   - index:
       path: /
